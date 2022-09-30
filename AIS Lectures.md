@@ -1,5 +1,5 @@
 ---
-aliases: [AIS]
+aliases: []
 ---
 
 | **FUN**     | [[Introductory Programming\|IP]] | [[Software Engineering\|SE]]          | [[Discrete Mathematics\|DM]]          | [[Introduction to Database Systems\|IDBS]] | [[Algorithms and Data Structures\|ADS]] | [[How to make (almost) anything\|MAKE]] |
@@ -12,4 +12,4 @@ aliases: [AIS]
 
 ---
 
-# Applied Information Security
+# AIS Lectures
